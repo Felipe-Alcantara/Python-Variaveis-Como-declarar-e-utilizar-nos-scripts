@@ -1,0 +1,2 @@
+# Python-Variaveis-Como-declarar-e-utilizar-nos-scripts
+ Este código é um exemplo básico de como manipular diferentes tipos de dados em Python. Ele demonstra a declaração de variáveis, impressão de valores e tipos de variáveis, e a conversão entre diferentes tipos de dados. Além disso, ele mostra como solicitar a entrada do usuário e trabalhar com valores booleanos. É um ótimo código para entender os fundamentos da manipulação de dados em Python.
